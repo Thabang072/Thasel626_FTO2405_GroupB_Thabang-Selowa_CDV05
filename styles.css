@@ -49,6 +49,7 @@ nav ul {
 
 nav ul li {
     margin: 0 1.5rem; /* Spacing between items */
+    
 }
 
 nav ul li a {
@@ -64,7 +65,7 @@ nav ul li a:hover, nav ul li a:focus {
 
 /* Hero Section */
 .hero {
-    background: url('https://www.pixelstalk.net/wp-content/uploads/2016/09/It-Desktop-Wallpaper-HD-Free-Download-620x388.jpg') no-repeat center center/cover;
+    background: url('https://www.shutterstock.com/image-vector/abstract-digital-circuit-board-on-260nw-2473370835.jpg') no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 5rem 0;
