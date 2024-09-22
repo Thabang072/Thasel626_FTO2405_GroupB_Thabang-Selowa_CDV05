@@ -23,6 +23,7 @@ header {
     background: #4a90e2;
     color: #fff;
     padding: 1.5rem 0;
+    align-items: center;
     font-style: italic; /* Added italic style */
 }
 
@@ -60,7 +61,7 @@ nav ul li a {
 }
 
 nav ul li a:hover, nav ul li a:focus {
-    color: #ffd700; /* Gold color */
+    color: #b4af93; /* Gold color */
 }
 
 /* Hero Section */
@@ -74,11 +75,12 @@ nav ul li a:hover, nav ul li a:focus {
 .hero h1 {
     font-size: 3.5rem;
     margin-bottom: 0.5rem;
+    font-style: inherit;
 }
 
 .hero p {
     font-size: 1.5rem;
-    
+    color: #bba7bb;
 }
 
 .btn {
@@ -92,7 +94,7 @@ nav ul li a:hover, nav ul li a:focus {
 }
 
 .btn:hover, .btn:focus {
-    background: #ffc107; /* Lighter gold */
+    background: #bba7bb; /* Lighter gold */
 }
 
 /* About Section */
